@@ -20,7 +20,9 @@
 ## 技術棧
 
 Python · FastAPI · React · SQLite · Docker
+
 LLM · RAG (FAISS / Chroma) · AI Agent · Gemini API
+
 pytest · GitHub Actions · Git
 
 ## 聯絡
